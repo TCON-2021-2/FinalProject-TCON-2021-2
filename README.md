@@ -18,13 +18,13 @@
 
 1. En la consola que utilizemos en nuestro caso la consola de uuntu, clonamos el repositorio y dentro de la carpeta ejecutamos el servicio con sudo y hacemos el docker compose del docker -HWC.yml 
 
-2.Dentro de este musmo y luego de instalar Phyton en nuestro sistema operativo procedemos a ejecutar el archivo python con el nombre sendMessageToLogstash.py 
+2. Dentro de este musmo y luego de instalar Phyton en nuestro sistema operativo procedemos a ejecutar el archivo python con el nombre sendMessageToLogstash.py 
 
-3.Podemos ingresar a elastic y ver como se esta ejecutando la aplicacion, ingesando en el localhost en el puerto 5601 
+3. Podemos ingresar a elastic y ver como se esta ejecutando la aplicacion, ingesando en el localhost en el puerto 5601 
 
-4.Ahora vamos a crear el index pattern que en nuestro caso se llamó ryjd 
+4. Ahora vamos a crear el index pattern que en nuestro caso se llamó ryjd 
 
-5.A continuación un vistazo a la asrquitectura Hot, Warm, Cold
+5. A continuación un vistazo a la asrquitectura Hot, Warm, Cold
 
 -Hot:
 
